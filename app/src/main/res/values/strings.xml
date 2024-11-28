@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Take2</string>
+    <string name="select_frequency">Select Frequency</string>
+    <string name="start_collection">Start Collection</string>
+    <string name="stop_collection">Stop Collection</string>
+    <string name="sensor_data_placeholder">Sensor data will appear here...</string>
+</resources>

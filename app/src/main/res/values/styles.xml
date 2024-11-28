@@ -1,0 +1,31 @@
+<resources>
+    <!-- Base application theme with Material Design -->
+    <style name="Theme.Take2" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Background and surface colors -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+    </style>
+
+    <!-- Primary Button Style with Rounded Corners -->
+    <style name="PrimaryButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/textOnPrimary</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <!-- Custom TextView Style -->
+    <style name="TextViewStyle" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:background">@color/surfaceColor</item>
+    </style>
+</resources>

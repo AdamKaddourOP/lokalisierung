@@ -1,0 +1,16 @@
+<resources>
+    <!-- Primary and Accent Colors -->
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Add this line -->
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorAccent">#03DAC6</color>
+
+    <!-- Background and Surface Colors -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="surfaceColor">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#333333</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+</resources>
